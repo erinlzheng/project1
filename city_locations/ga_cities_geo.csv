@@ -1,0 +1,539 @@
+,city_state,name,m_type,state_abrev,state_full,latitude,longitude,county
+0,"Abbeville city, Georgia",Abbeville,city,GA,Georgia,31.9921223,-83.3068243,Wilcox County
+1,"Acworth city, Georgia",Acworth,city,GA,Georgia,34.0659329,-84.6768796,Cobb County
+2,"Adairsville city, Georgia",Adairsville,city,GA,Georgia,34.3687021,-84.9341093,Bartow County
+3,"Adel city, Georgia",Adel,city,GA,Georgia,31.1371358,-83.4234936,Cook County
+4,"Adrian city, Georgia",Adrian,city,GA,Georgia,32.5307224,-82.5892995,Johnson County
+5,"Ailey city, Georgia",Ailey,city,GA,Georgia,32.1874042,-82.5656886,Montgomery County
+6,"Alamo town, Georgia",Alamo,town,GA,Georgia,32.1471202,-82.7779171,Wheeler County
+7,"Alapaha town, Georgia",Alapaha,town,GA,Georgia,31.3851954,-83.2229323,Berrien County
+8,"Albany city, Georgia",Albany,city,GA,Georgia,31.5785074,-84.15574099999999,Dougherty County
+9,"Aldora town, Georgia",Aldora,town,GA,Georgia,33.0520707,-84.17575029999999,Lamar County
+10,"Allenhurst city, Georgia",Allenhurst,city,GA,Georgia,31.7849323,-81.6087575,Liberty County
+11,"Allentown city, Georgia",Allentown,city,GA,Georgia,32.5932119,-83.2257127,Wilkinson County
+12,"Alma city, Georgia",Alma,city,GA,Georgia,31.5393701,-82.4623557,Bacon County
+13,"Alpharetta city, Georgia",Alpharetta,city,GA,Georgia,34.0753762,-84.2940899,Fulton County
+14,"Alston town, Georgia",Alston,town,GA,Georgia,32.080743,-82.4776303,Montgomery County
+15,"Alto town, Georgia",Alto,town,GA,Georgia,34.4673222,-83.5737843,Habersham County
+16,"Ambrose city, Georgia",Ambrose,city,GA,Georgia,31.5938031,-83.0143147,Coffee County
+17,"Americus city, Georgia",Americus,city,GA,Georgia,32.0723861,-84.23268759999999,Sumter County
+18,"Andersonville city, Georgia",Andersonville,city,GA,Georgia,32.1959947,-84.13990849999999,Sumter County
+19,"Arabi town, Georgia",Arabi,town,GA,Georgia,31.8356967,-83.71390869999999,Crisp County
+20,"Aragon city, Georgia",Aragon,city,GA,Georgia,34.0456549,-85.0560579,Polk County
+21,"Arcade city, Georgia",Arcade,city,GA,Georgia,34.0778881,-83.5615536,Jackson County
+22,"Argyle town, Georgia",Argyle,town,GA,Georgia,31.0741004,-82.64847259999999,Clinch County
+23,"Arlington city, Georgia",Arlington,city,GA,Georgia,31.4398976,-84.7249188,Calhoun County
+24,"Arnoldsville city, Georgia",Arnoldsville,city,GA,Georgia,33.9051167,-83.21681989999999,Oglethorpe County
+25,"Ashburn city, Georgia",Ashburn,city,GA,Georgia,31.7060134,-83.653224,Turner County
+26,"Athens-Clarke County unified government (balance), Georgia",Athens-Clarke County,county,GA,Georgia,33.9519347,-83.357567,Clarke County
+27,"Atlanta city, Georgia",Atlanta,city,GA,Georgia,33.7489954,-84.3879824,Fulton County
+28,"Attapulgus city, Georgia",Attapulgus,city,GA,Georgia,30.7490815,-84.4837998,Decatur County
+29,"Auburn city, Georgia",Auburn,city,GA,Georgia,34.0137179,-83.8276759,Barrow County
+30,"Augusta-Richmond County consolidated government (balance), Georgia",Augusta-Richmond County,county,GA,Georgia,33.4734978,-82.0105148,Richmond County
+31,"Austell city, Georgia",Austell,city,GA,Georgia,33.8126059,-84.6343783,Cobb County
+32,"Avalon town, Georgia",Avalon,town,GA,Georgia,34.5020454,-83.1951567,Stephens County
+33,"Avera city, Georgia",Avera,city,GA,Georgia,33.1940354,-82.5270728,Jefferson County
+34,"Avondale Estates city, Georgia",Avondale Estates,city,GA,Georgia,33.7714939,-84.26714439999999,DeKalb County
+35,"Baconton city, Georgia",Baconton,city,GA,Georgia,31.379623,-84.161017,Mitchell County
+36,"Bainbridge city, Georgia",Bainbridge,city,GA,Georgia,30.9037995,-84.57546990000002,Decatur County
+37,"Baldwin city, Georgia",Baldwin,city,GA,Georgia,34.4917665,-83.5373946,Habersham County
+38,"Ball Ground city, Georgia",Ball Ground,city,GA,Georgia,34.3372664,-84.3779515,Cherokee County
+39,"Barnesville city, Georgia",Barnesville,city,GA,Georgia,33.0545709,-84.15574950000001,Lamar County
+40,"Bartow town, Georgia",Bartow,town,GA,Georgia,32.8787666,-82.4737399,Jefferson County
+41,"Barwick city, Georgia",Barwick,city,GA,Georgia,30.8901919,-83.7407217,Thomas County
+42,"Baxley city, Georgia",Baxley,city,GA,Georgia,31.7782514,-82.3484618,Appling County
+43,"Bellville city, Georgia",Bellville,city,GA,Georgia,32.1524142,-81.97428390000002,Evans County
+44,"Berkeley Lake city, Georgia",Berkeley Lake,city,GA,Georgia,33.983712,-84.18658479999999,Gwinnett County
+45,"Berlin city, Georgia",Berlin,city,GA,Georgia,31.06824409999999,-83.623778,Colquitt County
+46,"Bethlehem town, Georgia",Bethlehem,town,GA,Georgia,33.9320556,-83.7137827,Barrow County
+47,"Between town, Georgia",Between,town,GA,Georgia,33.8176113,-83.8074003,Walton County
+48,"Bishop town, Georgia",Bishop,town,GA,Georgia,33.8192864,-83.4387722,Oconee County
+49,"Blackshear city, Georgia",Blackshear,city,GA,Georgia,31.3060513,-82.2420661,Pierce County
+50,"Blairsville city, Georgia",Blairsville,city,GA,Georgia,34.8760734,-83.95844559999999,Union County
+51,"Blakely city, Georgia",Blakely,city,GA,Georgia,31.3776754,-84.93409199999999,Early County
+52,"Bloomingdale city, Georgia",Bloomingdale,city,GA,Georgia,32.1324248,-81.2990018,Chatham County
+53,"Blue Ridge city, Georgia",Blue Ridge,city,GA,Georgia,34.8639719,-84.32408699999999,Fannin County
+54,"Bluffton town, Georgia",Bluffton,town,GA,Georgia,31.5229496,-84.8677008,Clay County
+55,"Blythe city, Georgia",Blythe,city,GA,Georgia,33.2926427,-82.2015103,Richmond County
+56,"Bogart town, Georgia",Bogart,town,GA,Georgia,33.949281,-83.53460799999999,Oconee County
+57,"Boston city, Georgia",Boston,city,GA,Georgia,30.7918613,-83.78988679999999,Thomas County
+58,"Bostwick city, Georgia",Bostwick,city,GA,Georgia,33.7373442,-83.5143312,Morgan County
+59,"Bowdon city, Georgia",Bowdon,city,GA,Georgia,33.5378885,-85.2532818,Carroll County
+60,"Bowersville town, Georgia",Bowersville,town,GA,Georgia,34.3728819,-83.0826491,Hart County
+61,"Bowman city, Georgia",Bowman,city,GA,Georgia,34.2048295,-83.0307002,Elbert County
+62,"Braselton town, Georgia",Braselton,town,GA,Georgia,34.1092735,-83.7626729,Jackson County
+63,"Braswell town, Georgia",Braswell,town,GA,Georgia,33.9892676,-84.9629999,Polk County
+64,"Bremen city, Georgia",Bremen,city,GA,Georgia,33.7212179,-85.1455036,Haralson County
+65,"Brinson town, Georgia",Brinson,town,GA,Georgia,30.97685319999999,-84.7376974,Decatur County
+66,"Bronwood town, Georgia",Bronwood,town,GA,Georgia,31.8310001,-84.364358,Terrell County
+67,"Brookhaven city, Georgia",Brookhaven,city,GA,Georgia,33.8650186,-84.33712659999999,DeKalb County
+68,"Brooklet city, Georgia",Brooklet,city,GA,Georgia,32.37962940000001,-81.6631659,Bulloch County
+69,"Brooks town, Georgia",Brooks,town,GA,Georgia,33.2909517,-84.45936999999999,Fayette County
+70,"Broxton city, Georgia",Broxton,city,GA,Georgia,31.6251911,-82.88681129999999,Coffee County
+71,"Brunswick city, Georgia",Brunswick,city,GA,Georgia,31.1499528,-81.49148939999999,Glynn County
+72,"Buchanan city, Georgia",Buchanan,city,GA,Georgia,33.8021734,-85.1900624,Haralson County
+73,"Buckhead town, Georgia",Buckhead,town,GA,Georgia,33.8372663,-84.406761,Atlanta
+74,"Buena Vista city, Georgia",Buena Vista,city,GA,Georgia,32.3190398,-84.51714109999999,Marion County
+75,"Buford city, Georgia",Buford,city,GA,Georgia,34.1206564,-84.0043513,Gwinnett County
+76,"Butler city, Georgia",Butler,city,GA,Georgia,32.5570898,-84.2382482,Taylor County
+77,"Byromville town, Georgia",Byromville,town,GA,Georgia,32.2021071,-83.9085132,Dooly County
+78,"Byron city, Georgia",Byron,city,GA,Georgia,32.6537561,-83.7596295,Peach County
+79,"Cadwell town, Georgia",Cadwell,town,GA,Georgia,32.339615,-83.04209159999999,Laurens County
+80,"Cairo city, Georgia",Cairo,city,GA,Georgia,30.8774132,-84.2012897,Grady County
+81,"Calhoun city, Georgia",Calhoun,city,GA,Georgia,34.502587,-84.9510542,Gordon County
+82,"Camak town, Georgia",Camak,town,GA,Georgia,33.4534709,-82.6459668,Warren County
+83,"Camilla city, Georgia",Camilla,city,GA,Georgia,31.2312933,-84.21046109999999,Mitchell County
+84,"Canon city, Georgia",Canon,city,GA,Georgia,34.3462158,-83.1098717,Franklin County
+85,"Canton city, Georgia",Canton,city,GA,Georgia,34.2367621,-84.4907621,Cherokee County
+86,"Carl town, Georgia",Carl,town,GA,Georgia,34.005663,-83.8112862,Barrow County
+87,"Carlton city, Georgia",Carlton,city,GA,Georgia,34.0431675,-83.0337558,Madison County
+88,"Carnesville city, Georgia",Carnesville,city,GA,Georgia,34.3698266,-83.23515499999999,Franklin County
+89,"Carrollton city, Georgia",Carrollton,city,GA,Georgia,33.5801103,-85.0766113,Carroll County
+90,"Cartersville city, Georgia",Cartersville,city,GA,Georgia,34.1650972,-84.7999382,Bartow County
+91,"Cave Spring city, Georgia",Cave Spring,city,GA,Georgia,34.1075975,-85.33634339999999,Floyd County
+92,"Cecil city, Georgia",Cecil,city,GA,Georgia,31.0455063,-83.3924741,Cook County
+93,"Cedartown city, Georgia",Cedartown,city,GA,Georgia,34.0112715,-85.25658229999999,Polk County
+94,"Centerville city, Georgia",Centerville,city,GA,Georgia,32.630145,-83.6896285,Houston County
+95,"Centralhatchee town, Georgia",Centralhatchee,town,GA,Georgia,33.3690045,-85.103554,Heard County
+96,"Chamblee city, Georgia",Chamblee,city,GA,Georgia,33.8920468,-84.29881259999999,DeKalb County
+97,"Chatsworth city, Georgia",Chatsworth,city,GA,Georgia,34.7659145,-84.7699385,Murray County
+98,"Chattahoochee Hills city, Georgia",Chattahoochee HIlls,city,GA,Georgia,33.5479728,-84.76306819999999,Fulton County
+99,"Chauncey city, Georgia",Chauncey,city,GA,Georgia,32.1046197,-83.0645928,Dodge County
+100,"Chester town, Georgia",Chester,town,GA,Georgia,32.3937787,-83.15292989999999,Dodge County
+101,"Chickamauga city, Georgia",Chickamauga,city,GA,Georgia,34.8711879,-85.2907896,Walker County
+102,"Clarkesville city, Georgia",Clarkesville,city,GA,Georgia,34.6125971,-83.5248933,Habersham County
+103,"Clarkston city, Georgia",Clarkston,city,GA,Georgia,33.8095487,-84.23964339999999,DeKalb County
+104,"Claxton city, Georgia",Claxton,city,GA,Georgia,32.1615814,-81.9040047,Evans County
+105,"Clayton city, Georgia",Clayton,city,GA,Georgia,34.8781479,-83.4009933,Rabun County
+106,"Clermont town, Georgia",Clermont,town,GA,Georgia,34.4778752,-83.7735148,Hall County
+107,"Cleveland city, Georgia",Cleveland,city,GA,Georgia,34.5970402,-83.7632366,White County
+108,"Climax city, Georgia",Climax,city,GA,Georgia,30.8760231,-84.4312983,Decatur County
+109,"Cobbtown city, Georgia",Cobbtown,city,GA,Georgia,32.2804623,-82.138731,Tattnall County
+110,"Cochran city, Georgia",Cochran,city,GA,Georgia,32.3868278,-83.35460979999999,Bleckley County
+111,"Cohutta city, Georgia",Cohutta,city,GA,Georgia,34.95952090000001,-84.95272349999999,Whitfield County
+112,"Colbert city, Georgia",Colbert,city,GA,Georgia,34.0378903,-83.2126517,Madison County
+113,"College Park city, Georgia",College Park,city,GA,Georgia,33.6534427,-84.4493725,Fulton County
+114,"Collins city, Georgia",Collins,city,GA,Georgia,32.1813013,-82.1090083,Tattnall County
+115,"Colquitt city, Georgia",Colquitt,city,GA,Georgia,31.17129349999999,-84.7332527,Miller County
+116,"Columbus city, Georgia",Columbus,city,GA,Georgia,32.4609764,-84.9877094,Muscogee County
+117,"Comer city, Georgia",Comer,city,GA,Georgia,34.0637227,-83.1254261,Madison County
+118,"Commerce city, Georgia",Commerce,city,GA,Georgia,34.203997,-83.4571057,Jackson County
+119,"Concord city, Georgia",Concord,city,GA,Georgia,33.0912359,-84.4374232,Pike County
+120,"Conyers city, Georgia",Conyers,city,GA,Georgia,33.6676103,-84.01769039999999,Rockdale County
+121,"Coolidge city, Georgia",Coolidge,city,GA,Georgia,31.0112991,-83.86628209999999,Thomas County
+122,"Cordele city, Georgia",Cordele,city,GA,Georgia,31.9635074,-83.7823938,Crisp County
+123,"Cornelia city, Georgia",Cornelia,city,GA,Georgia,34.5114883,-83.5271166,Habersham County
+124,"Covington city, Georgia",Covington,city,GA,Georgia,33.5967815,-83.8601827,Newton County
+125,"Crawford city, Georgia",Crawford,city,GA,Georgia,33.8828954,-83.154596,Oglethorpe County
+126,"Crawfordville city, Georgia",Crawfordville,city,GA,Georgia,33.5540209,-82.8959785,Taliaferro County
+127,"Culloden city, Georgia",Culloden,city,GA,Georgia,32.86319050000001,-84.0938017,Monroe County
+128,"Cumming city, Georgia",Cumming,city,GA,Georgia,34.2073196,-84.14019259999999,Forsyth County
+129,"Cusseta-Chattahoochee County unified government, Georgia",Cusseta-Chattahoochee County,county,GA,Georgia,32.3061354,-84.77704849999999,Chattahoochee County
+130,"Cuthbert city, Georgia",Cuthbert,city,GA,Georgia,31.7712748,-84.7893658,Randolph County
+131,"Dacula city, Georgia",Dacula,city,GA,Georgia,33.9887165,-83.8979573,Gwinnett County
+132,"Dahlonega city, Georgia",Dahlonega,city,GA,Georgia,34.5261465,-83.9843953,Lumpkin County
+133,"Daisy city, Georgia",Daisy,city,GA,Georgia,32.1518609,-81.8345588,Evans County
+134,"Dallas city, Georgia",Dallas,city,GA,Georgia,33.9244531,-84.8413056,Paulding County
+135,"Dalton city, Georgia",Dalton,city,GA,Georgia,34.7698021,-84.9702228,Whitfield County
+136,"Damascus city, Georgia",Damascus,city,GA,Georgia,31.2990682,-84.7188077,Early County
+137,"Danielsville city, Georgia",Danielsville,city,GA,Georgia,34.1242771,-83.2212629,Madison County
+138,"Danville town, Georgia",Danville,town,GA,Georgia,32.6057103,-83.24543609999999,Twiggs County
+139,"Darien city, Georgia",Darien,city,GA,Georgia,31.3702255,-81.43399029999999,McIntosh County
+140,"Dasher town, Georgia",Dasher,town,GA,Georgia,30.7474278,-83.220704,Lowndes County
+141,"Davisboro city, Georgia",Davisboro,city,GA,Georgia,32.97904250000001,-82.60790949999999,Washington County
+142,"Dawson city, Georgia",Dawson,city,GA,Georgia,31.7735001,-84.4465826,Terrell County
+143,"Dawsonville city, Georgia",Dawsonville,city,GA,Georgia,34.4212052,-84.1190804,Dawson County
+144,"Dearing town, Georgia",Dearing,town,GA,Georgia,33.41319470000001,-82.3851255,McDuffie County
+145,"Decatur city, Georgia",Decatur,city,GA,Georgia,33.7748275,-84.2963123,DeKalb County
+146,"Deepstep town, Georgia",Deepstep,town,GA,Georgia,33.0182075,-82.96903329999999,Washington County
+147,"Demorest city, Georgia",Demorest,city,GA,Georgia,34.565098,-83.5451724,Habersham County
+148,"Denton city, Georgia",Denton,city,GA,Georgia,31.7226881,-82.6937513,Jeff Davis County
+149,"De Soto city, Georgia",De Soto,city,GA,Georgia,31.9536688,-84.0616709,Sumter County
+150,"Dexter town, Georgia",Dexter,town,GA,Georgia,32.4323909,-83.0612596,Laurens County
+151,"Dillard city, Georgia",Dillard,city,GA,Georgia,34.9700911,-83.3871006,Rabun County
+152,"Doerun city, Georgia",Doerun,city,GA,Georgia,31.3196267,-83.9171221,Colquitt County
+153,"Donalsonville city, Georgia",Donalsonville,city,GA,Georgia,31.0404625,-84.87909110000001,Seminole County
+154,"Dooling town, Georgia",Dooling,town,GA,Georgia,32.2304391,-83.927959,Dooly County
+155,"Doraville city, Georgia",Doraville,city,GA,Georgia,33.8981579,-84.2832564,DeKalb County
+156,"Douglas city, Georgia",Douglas,city,GA,Georgia,31.5088073,-82.8498654,Coffee County
+157,"Douglasville city, Georgia",Douglasville,city,GA,Georgia,33.7514966,-84.7477136,Douglas County
+158,"Dublin city, Georgia",Dublin,city,GA,Georgia,32.5404447,-82.90375399999999,Laurens County
+159,"Dudley city, Georgia",Dudley,city,GA,Georgia,32.5423872,-83.07042729999999,Laurens County
+160,"Duluth city, Georgia",Duluth,city,GA,Georgia,34.0028786,-84.1446376,Gwinnett County
+161,"Dunwoody city, Georgia",Dunwoody,city,GA,Georgia,33.9462125,-84.3346473,DeKalb County
+162,"Du Pont town, Georgia",Du Pont,town,GA,Georgia,30.9885419,-82.87153049999999,Clinch County
+163,"East Dublin city, Georgia",East Dublin,city,GA,Georgia,32.548222,-82.87180839999999,Laurens County
+164,"East Ellijay city, Georgia",East Ellijay,city,GA,Georgia,34.6839746,-84.4727049,Gilmer County
+165,"Eastman city, Georgia",Eastman,city,GA,Georgia,32.1976729,-83.1776514,Dodge County
+166,"East Point city, Georgia",East Point,city,GA,Georgia,33.6795531,-84.43937240000001,Fulton County
+167,"Eatonton city, Georgia",Eatonton,city,GA,Georgia,33.3267997,-83.3884961,Putnam County
+168,"Echols County consolidated government, Georgia",Echols County,county,GA,Georgia,30.7503289,-82.95015579999999,Georgia
+169,"Edge Hill city, Georgia",Edge Hill,city,GA,Georgia,33.1541951,-82.6253837,Glascock County
+170,"Edison city, Georgia",Edison,city,GA,Georgia,31.5582271,-84.7382526,Calhoun County
+171,"Elberton city, Georgia",Elberton,city,GA,Georgia,34.1112226,-82.8670839,Elbert County
+172,"Ellaville city, Georgia",Ellaville,city,GA,Georgia,32.2382139,-84.30907979999999,Schley County
+173,"Ellenton town, Georgia",Ellenton,town,GA,Georgia,31.1760205,-83.587389,Colquitt County
+174,"Ellijay city, Georgia",Ellijay,city,GA,Georgia,34.6948076,-84.4821498,Gilmer County
+175,"Emerson city, Georgia",Emerson,city,GA,Georgia,34.1271745,-84.7542959,Bartow County
+176,"Enigma town, Georgia",Enigma,town,GA,Georgia,31.4129695,-83.3290468,Berrien County
+177,"Ephesus city, Georgia",Ephesus,city,GA,Georgia,33.4070586,-85.2543915,Heard County
+178,"Eton city, Georgia",Eton,city,GA,Georgia,34.82508,-84.763272,Murray County
+179,"Euharlee city, Georgia",Euharlee,city,GA,Georgia,34.1448193,-84.93299859999999,Bartow County
+180,"Fairburn city, Georgia",Fairburn,city,GA,Georgia,33.5670562,-84.5810418,Fulton County
+181,"Fairmount city, Georgia",Fairmount,city,GA,Georgia,34.4362013,-84.69993459999999,Gordon County
+182,"Fargo city, Georgia",Fargo,city,GA,Georgia,30.6818841,-82.5665192,Clinch County
+183,"Fayetteville city, Georgia",Fayetteville,city,GA,Georgia,33.4486296,-84.4550443,Fayette County
+184,"Fitzgerald city, Georgia",Fitzgerald,city,GA,Georgia,31.7149082,-83.25265449999999,Ben Hill County
+185,"Flemington city, Georgia",Flemington,city,GA,Georgia,31.8597149,-81.5637129,Liberty County
+186,"Flovilla city, Georgia",Flovilla,city,GA,Georgia,33.253734,-83.89851709999999,Butts County
+187,"Flowery Branch city, Georgia",Flowery Branch,city,GA,Georgia,34.1851017,-83.9251809,Hall County
+188,"Folkston city, Georgia",Folkston,city,GA,Georgia,30.8305102,-82.0098375,Charlton County
+189,"Forest Park city, Georgia",Forest Park,city,GA,Georgia,33.6220542,-84.36909179999999,Clayton County
+190,"Forsyth city, Georgia",Forsyth,city,GA,Georgia,33.0342974,-83.938242,Monroe County
+191,"Fort Gaines city, Georgia",Fort Gaines,city,GA,Georgia,31.6090569,-85.0471505,Clay County
+192,"Fort Oglethorpe city, Georgia",Fort Ogelthorpe,city,GA,Georgia,34.9489645,-85.2569,Catoosa County
+193,"Fort Valley city, Georgia",Fort Valley,city,GA,Georgia,32.5537585,-83.8874084,Peach County
+194,"Franklin city, Georgia",Franklin,city,GA,Georgia,33.2776182,-85.0979973,Heard County
+195,"Franklin Springs city, Georgia",Franklin Springs,city,GA,Georgia,34.28482839999999,-83.1443161,Franklin County
+196,"Funston city, Georgia",Funston,city,GA,Georgia,31.1999071,-83.8735088,Colquitt County
+197,"Gainesville city, Georgia",Gainesville,city,GA,Georgia,34.2978794,-83.8240663,Hall County
+198,"Garden City city, Georgia",Garden City,city,GA,Georgia,32.1143715,-81.15400129999999,Chatham County
+199,"Garfield city, Georgia",Garfield,city,GA,Georgia,32.649885,-82.09817500000001,Emanuel County
+200,"Gay town, Georgia",Gay,town,GA,Georgia,33.0937361,-84.57381509999999,Meriwether County
+201,"Geneva town, Georgia",Geneva,town,GA,Georgia,32.579862,-84.5507559,Talbot County
+202,"Georgetown-Quitman County unified government, Georgia",Georgetown-Quitman County,county,GA,Georgia,31.884605,-85.1074308,Quitman County
+203,"Gibson city, Georgia",Gibson,city,GA,Georgia,33.2334789,-82.5954083,Glascock County
+204,"Gillsville city, Georgia",Gillsville,city,GA,Georgia,34.3078817,-83.6335036,Banks County
+205,"Girard town, Georgia",Girard,town,GA,Georgia,33.04043230000001,-81.71205669999999,Burke County
+206,"Glennville city, Georgia",Glennville,city,GA,Georgia,31.93659169999999,-81.92845009999999,Tattnall County
+207,"Glenwood city, Georgia",Glenwood,city,GA,Georgia,32.1799008,-82.6695802,Wheeler County
+208,"Good Hope city, Georgia",Good Hope,city,GA,Georgia,33.7848398,-83.60905749999999,Walton County
+209,"Gordon city, Georgia",Gordon,city,GA,Georgia,32.8820866,-83.3323848,Wilkinson County
+210,"Graham city, Georgia",Graham,city,GA,Georgia,31.8315786,-82.5023554,Appling County
+211,"Grantville city, Georgia",Grantville,city,GA,Georgia,33.2348419,-84.8357678,Coweta County
+212,"Gray city, Georgia",Gray,city,GA,Georgia,33.0095802,-83.5337816,Jones County
+213,"Grayson city, Georgia",Grayson,city,GA,Georgia,33.8942729,-83.95573999999999,Gwinnett County
+214,"Greensboro city, Georgia",Greensboro,city,GA,Georgia,33.5756831,-83.18237890000002,Greene County
+215,"Greenville city, Georgia",Greenville,city,GA,Georgia,33.0287373,-84.7129848,Meriwether County
+216,"Griffin city, Georgia",Griffin,city,GA,Georgia,33.2467807,-84.2640904,Spalding County
+217,"Grovetown city, Georgia",Grovetown,city,GA,Georgia,33.4504157,-82.1981764,Columbia County
+218,"Gumbranch city, Georgia",Gumbranch,city,GA,Georgia,31.8405695,-81.6816118,Liberty County
+219,"Guyton city, Georgia",Guyton,city,GA,Georgia,32.3421597,-81.3921781,Effingham County
+220,"Hagan city, Georgia",Hagan,city,GA,Georgia,32.1560257,-81.9337275,Evans County
+221,"Hahira city, Georgia",Hahira,city,GA,Georgia,30.9913064,-83.3726575,Lowndes County
+222,"Hamilton city, Georgia",Hamilton,city,GA,Georgia,32.7579106,-84.87493110000001,Harris County
+223,"Hampton city, Georgia",Hampton,city,GA,Georgia,33.3870578,-84.2829784,Henry County
+224,"Hapeville city, Georgia",Hapeville,city,GA,Georgia,33.660109,-84.4102046,Fulton County
+225,"Haralson town, Georgia",Haralson,town,GA,Georgia,33.2265099,-84.5713164,Coweta County
+226,"Harlem city, Georgia",Harlem,city,GA,Georgia,33.4145834,-82.3126237,Columbia County
+227,"Harrison town, Georgia",Harrison,town,GA,Georgia,32.8262697,-82.7251364,Washington County
+228,"Hartwell city, Georgia",Hartwell,city,GA,Georgia,34.3528825,-82.932087,Hart County
+229,"Hawkinsville city, Georgia",Hawkinsville,city,GA,Georgia,32.2837731,-83.4721177,Pulaski County
+230,"Hazlehurst city, Georgia",Hazlehurst,city,GA,Georgia,31.8696309,-82.59430259999999,Jeff Davis County
+231,"Helen city, Georgia",Helen,city,GA,Georgia,34.7014839,-83.7315675,White County
+232,"Hephzibah city, Georgia",Hephzibah,city,GA,Georgia,33.3140311,-82.0967857,Richmond County
+233,"Hiawassee city, Georgia",Hiawassee,city,GA,Georgia,34.9492586,-83.7573948,Towns County
+234,"Higgston town, Georgia",Higgston,town,GA,Georgia,32.2165732,-82.4670747,Montgomery County
+235,"Hiltonia town, Georgia",Hiltonia,town,GA,Georgia,32.883494,-81.658166,Screven County
+236,"Hinesville city, Georgia",Hinesville,city,GA,Georgia,31.8315028,-81.6141099,Liberty County
+237,"Hiram city, Georgia",Hiram,city,GA,Georgia,33.8756601,-84.7621592,Paulding County
+238,"Hoboken city, Georgia",Hoboken,city,GA,Georgia,31.1810559,-82.1348416,Brantley County
+239,"Hogansville city, Georgia",Hogansville,city,GA,Georgia,33.1730399,-84.91478359999999,Troup County
+240,"Holly Springs city, Georgia",Holly Springs,city,GA,Georgia,34.1739857,-84.5013187,Cherokee County
+241,"Homeland city, Georgia",Homeland,city,GA,Georgia,30.8560651,-82.02094919999999,Charlton County
+242,"Homer town, Georgia",Homer,town,GA,Georgia,34.3337156,-83.499055,Banks County
+243,"Homerville city, Georgia",Homerville,city,GA,Georgia,31.0365983,-82.74708489999999,Clinch County
+244,"Hoschton city, Georgia",Hoschton,city,GA,Georgia,34.096496,-83.7612839,Jackson County
+245,"Hull city, Georgia",Hull,city,GA,Georgia,34.0148352,-83.2937659,Madison County
+246,"Ideal city, Georgia",Ideal,city,GA,Georgia,32.3695983,-84.1879675,Macon County
+247,"Ila city, Georgia",Ila,city,GA,Georgia,34.1726093,-83.29209879999999,Madison County
+248,"Iron City town, Georgia",Iron City,city,GA,Georgia,31.0135189,-84.8129778,Seminole County
+249,"Irwinton city, Georgia",Irwinton,city,GA,Georgia,32.8112594,-83.1726541,Wilkinson County
+250,"Ivey city, Georgia",Ivey,city,GA,Georgia,32.9070875,-83.2907147,Wilkinson County
+251,"Jackson city, Georgia",Jackson,city,GA,Georgia,33.2945651,-83.96602089999999,Butts County
+252,"Jacksonville city, Georgia",Jacksonville,city,GA,Georgia,31.8126838,-82.97903579999999,Telfair County
+253,"Jakin city, Georgia",Jakin,city,GA,Georgia,31.0910162,-84.98214999999999,Early County
+254,"Jasper city, Georgia",Jasper,city,GA,Georgia,34.4695524,-84.4289888,Pickens County
+255,"Jefferson city, Georgia",Jefferson,city,GA,Georgia,34.1170537,-83.5723876,Jackson County
+256,"Jeffersonville city, Georgia",Jeffersonville,city,GA,Georgia,32.687646,-83.3465561,Twiggs County
+257,"Jenkinsburg city, Georgia",Jenkinsburg,city,GA,Georgia,33.3245628,-84.0357465,Butts County
+258,"Jersey city, Georgia",Jersey,city,GA,Georgia,33.7156693,-83.79879009999999,Walton County
+259,"Jesup city, Georgia",Jesup,city,GA,Georgia,31.6074365,-81.8853924,Wayne County
+260,"Johns Creek city, Georgia",Johns Creek,city,GA,Georgia,34.0289259,-84.198579,Fulton County
+261,"Jonesboro city, Georgia",Jonesboro,city,GA,Georgia,33.5215013,-84.3538128,Clayton County
+262,"Junction City town, Georgia",Junction City,town,GA,Georgia,32.6034735,-84.4593646,Talbot County
+263,"Kennesaw city, Georgia",Kennesaw,city,GA,Georgia,34.0234337,-84.6154897,Cobb County
+264,"Keysville city, Georgia",Keysville,city,GA,Georgia,33.2337555,-82.23234440000002,Burke County
+265,"Kingsland city, Georgia",Kingsland,city,GA,Georgia,30.7999563,-81.68982609999999,Camden County
+266,"Kingston city, Georgia",Kingston,city,GA,Georgia,34.237039,-84.94410979999999,Bartow County
+267,"Kite city, Georgia",Kite,city,GA,Georgia,32.6923836,-82.5145752,Johnson County
+268,"LaFayette city, Georgia",LaFayette,city,GA,Georgia,34.7048022,-85.2818998,Walker County
+269,"LaGrange city, Georgia",LaGrange,city,GA,Georgia,33.0362218,-85.0322444,Troup County
+270,"Lake City city, Georgia",Lake City,city,GA,Georgia,33.6064989,-84.3352017,Clayton County
+271,"Lakeland city, Georgia",Lakeland,city,GA,Georgia,31.0410373,-83.0751471,Lanier County
+272,"Lake Park city, Georgia",Lake Park,city,GA,Georgia,30.6846637,-83.1828732,Lowndes County
+273,"Lavonia city, Georgia",Lavonia,city,GA,Georgia,34.4359361,-83.10681799999999,Franklin County
+274,"Lawrenceville city, Georgia",Lawrenceville,city,GA,Georgia,33.9562149,-83.9879625,Gwinnett County
+275,"Leary city, Georgia",Leary,city,GA,Georgia,31.4857308,-84.5138017,Calhoun County
+276,"Leesburg city, Georgia",Leesburg,city,GA,Georgia,31.7321156,-84.1707423,Lee County
+277,"Lenox town, Georgia",Lenox,town,GA,Georgia,31.2715768,-83.4648845,Cook County
+278,"Leslie city, Georgia",Leslie,city,GA,Georgia,31.9554475,-84.0865706,Sumter County
+279,"Lexington city, Georgia",Lexington,city,GA,Georgia,33.8698404,-83.111817,Oglethorpe County
+280,"Lilburn city, Georgia",Lilburn,city,GA,Georgia,33.8901036,-84.14297189999999,Gwinnett County
+281,"Lilly city, Georgia",Lilly,city,GA,Georgia,32.1471098,-83.8773999,Dooly County
+282,"Lincolnton city, Georgia",Lincolnton,city,GA,Georgia,33.7923477,-82.479018,Lincoln County
+283,"Lithonia city, Georgia",Lithonia,city,GA,Georgia,33.7123305,-84.1051939,DeKalb County
+284,"Locust Grove city, Georgia",Locust Grove,city,GA,Georgia,33.3459495,-84.109083,Henry County
+285,"Loganville city, Georgia",Loganville,city,GA,Georgia,33.8389977,-83.90073819999999,Walton County
+286,"Lone Oak town, Georgia",Lone Oak,town,GA,Georgia,33.1717883,-84.8160446,Meriwether County
+287,"Lookout Mountain city, Georgia",Lookout Mountain,city,GA,Georgia,34.9775757,-85.35773630000001,Walker County
+288,"Louisville city, Georgia",Louisville,city,GA,Georgia,33.0015407,-82.4112377,Jefferson County
+289,"Lovejoy city, Georgia",Lovejoy,city,GA,Georgia,33.4362245,-84.3143675,Clayton County
+290,"Ludowici city, Georgia",Ludowici,city,GA,Georgia,31.7079919,-81.7423357,Long County
+291,"Lula city, Georgia",Lula,city,GA,Georgia,34.3876013,-83.66628539999999,Hall County
+292,"Lumber City city, Georgia",Lumber City,city,GA,Georgia,31.9293488,-82.6795831,Telfair County
+293,"Lumpkin city, Georgia",Lumpkin,city,GA,Georgia,32.0509895,-84.7990901,Stewart County
+294,"Luthersville city, Georgia",Luthersville,city,GA,Georgia,33.2101205,-84.7443765,Meriwether County
+295,"Lyerly town, Georgia",Lyerly,town,GA,Georgia,34.4039775,-85.40329109999999,Chattooga County
+296,"Lyons city, Georgia",Lyons,city,GA,Georgia,32.2043546,-82.32179099999999,Toombs County
+297,"McCaysville city, Georgia",McCaysville,city,GA,Georgia,34.9861914,-84.37131169999999,Fannin County
+298,"McDonough city, Georgia",McDonough,city,GA,Georgia,33.4473361,-84.1468616,Henry County
+299,"McIntyre town, Georgia",McIntyre,town,GA,Georgia,32.8470477,-83.2018485,Wilkinson County
+300,"Macon-Bibb County, Georgia",Macon-Bibb County,county,GA,Georgia,32.8406946,-83.6324022,Bibb County
+301,"McRae-Helena city, Georgia",McRae-Helena,city,GA,Georgia,32.0681233,-82.9009674,Telfair County
+302,"Madison city, Georgia",Madison,city,GA,Georgia,33.5956813,-83.467944,Morgan County
+303,"Manassas city, Georgia",Manassas,city,GA,Georgia,32.1604689,-82.01956249999999,Tattnall County
+304,"Manchester city, Georgia",Manchester,city,GA,Georgia,32.8598538,-84.6199251,Meriwether County
+305,"Mansfield city, Georgia",Mansfield,city,GA,Georgia,33.5178968,-83.73434429999999,Newton County
+306,"Marietta city, Georgia",Marietta,city,GA,Georgia,33.95260200000001,-84.5499327,Cobb County
+307,"Marshallville city, Georgia",Marshallville,city,GA,Georgia,32.4562623,-83.9401857,Macon County
+308,"Martin town, Georgia",Martin,town,GA,Georgia,34.4870458,-83.18487809999999,Stephens County
+309,"Maxeys town, Georgia",Maxeys,town,GA,Georgia,33.7542889,-83.1734874,Oglethorpe County
+310,"Maysville town, Georgia",Maysville,town,GA,Georgia,34.2528839,-83.5615548,Banks County
+311,"Meansville city, Georgia",Meansville,city,GA,Georgia,33.0492923,-84.3068648,Pike County
+312,"Meigs city, Georgia",Meigs,city,GA,Georgia,31.0724085,-84.0890659,Thomas County
+313,"Menlo city, Georgia",Menlo,city,GA,Georgia,34.484808,-85.4763492,Chattooga County
+314,"Metter city, Georgia",Metter,city,GA,Georgia,32.397118,-82.0601195,Candler County
+315,"Midville city, Georgia",Midville,city,GA,Georgia,32.8190456,-82.2348455,Burke County
+316,"Midway city, Georgia",Midway,city,GA,Georgia,31.8053848,-81.4306953,Liberty County
+317,"Milan city, Georgia",Milan,city,GA,Georgia,32.0173996,-83.0626489,Telfair County
+318,"Milledgeville city, Georgia",Milledgeville,city,GA,Georgia,33.0801429,-83.2320991,Baldwin County
+319,"Millen city, Georgia",Millen,city,GA,Georgia,32.8040512,-81.9492812,Jenkins County
+320,"Milner city, Georgia",Milner,city,GA,Georgia,33.1167891,-84.1965855,Lamar County
+321,"Milton city, Georgia",Milton,city,GA,Georgia,34.1321631,-84.30066599999999,Fulton County
+322,"Mitchell town, Georgia",Mitchell,town,GA,Georgia,33.2198688,-82.7031896,Glascock County
+323,"Molena city, Georgia",Molena,city,GA,Georgia,33.0120724,-84.5002013,Pike County
+324,"Monroe city, Georgia",Monroe,city,GA,Georgia,33.7948364,-83.713229,Walton County
+325,"Montezuma city, Georgia",Montezuma,city,GA,Georgia,32.3051576,-84.0274072,Macon County
+326,"Monticello city, Georgia",Monticello,city,GA,Georgia,33.3048479,-83.6832289,Jasper County
+327,"Montrose town, Georgia",Montrose,town,GA,Georgia,32.5596055,-83.1532091,Laurens County
+328,"Moreland town, Georgia",Moreland,town,GA,Georgia,33.2867851,-84.7677111,Coweta County
+329,"Morgan city, Georgia",Morgan,city,GA,Georgia,31.5376731,-84.5993601,Calhoun County
+330,"Morganton city, Georgia",Morganton,city,GA,Georgia,34.8781613,-84.24631880000001,Fannin County
+331,"Morrow city, Georgia",Morrow,city,GA,Georgia,33.5831662,-84.33936829999999,Clayton County
+332,"Morven city, Georgia",Morven,city,GA,Georgia,30.9415814,-83.4993276,Brooks County
+333,"Moultrie city, Georgia",Moultrie,city,GA,Georgia,31.1799407,-83.7888387,Colquitt County
+334,"Mountain City town, Georgia",Mountain City,town,GA,Georgia,34.9181473,-83.38543589999999,Rabun County
+335,"Mountain Park city, Georgia",Mountain Park,city,GA,Georgia,34.0825385,-84.4138442,Fulton County
+336,"Mount Airy town, Georgia",Mount Airy,town,GA,Georgia,34.5187106,-83.5007265,Habersham County
+337,"Mount Vernon city, Georgia",Mount Venon,city,GA,Georgia,32.1785145,-82.5945783,Montgomery County
+338,"Mount Zion city, Georgia",Mount Zion,city,GA,Georgia,33.6342754,-85.18717029999999,Carroll County
+339,"Nahunta city, Georgia",Nahunta,city,GA,Georgia,31.20439,-81.98122599999999,Brantley County
+340,"Nashville city, Georgia",Nashville,city,GA,Georgia,31.2074197,-83.25015479999999,Berrien County
+341,"Nelson city, Georgia",Nelson,city,GA,Georgia,34.3820371,-84.37103479999999,Pickens County
+342,"Newborn town, Georgia",Newborn,town,GA,Georgia,33.5170648,-83.6960096,Newton County
+343,"Newington town, Georgia",Newington,town,GA,Georgia,32.5901748,-81.503996,Screven County
+344,"Newnan city, Georgia",Newnan,city,GA,Georgia,33.3806716,-84.79965729999999,Coweta County
+345,"Newton city, Georgia",Newton,city,GA,Georgia,31.3129575,-84.3357424,Baker County
+346,"Nicholls city, Georgia",Nicholls,city,GA,Georgia,31.5174219,-82.63486019999999,Coffee County
+347,"Nicholson city, Georgia",Nicholson,city,GA,Georgia,34.1139993,-83.4315488,Jackson County
+348,"Norcross city, Georgia",Norcross,city,GA,Georgia,33.9412127,-84.2135309,Gwinnett County
+349,"Norman Park city, Georgia",Norman Park,city,GA,Georgia,31.26907409999999,-83.6871168,Colquitt County
+350,"North High Shoals town, Georgia",North High Shoals,town,GA,Georgia,33.8201194,-83.5059966,Oconee County
+351,"Norwood city, Georgia",Norwood,city,GA,Georgia,33.4626371,-82.7051355,Warren County
+352,"Nunez city, Georgia",Nunez,city,GA,Georgia,32.4912785,-82.3470713,Emanuel County
+353,"Oak Park town, Georgia",Oak Park,town,GA,Georgia,32.3582334,-82.3145693,Emanuel County
+354,"Oakwood city, Georgia",Oakwood,city,GA,Georgia,34.227602,-83.8843455,Hall County
+355,"Ochlocknee town, Georgia",Ochlocknee,town,GA,Georgia,30.97379969999999,-84.0529518,Thomas County
+356,"Ocilla city, Georgia",Ocilla,city,GA,Georgia,31.5943567,-83.2504328,Irwin County
+357,"Oconee city, Georgia",Oconee,city,GA,Georgia,33.8231988,-83.4430118,Georgia
+358,"Odum city, Georgia",Odum,city,GA,Georgia,31.6660432,-82.027895,Wayne County
+359,"Offerman city, Georgia",Offerman,city,GA,Georgia,31.40966,-82.111785,Pierce County
+360,"Oglethorpe city, Georgia",Oglethorpe,city,GA,Georgia,32.293769,-84.0610191,Macon County
+361,"Oliver city, Georgia",Oliver,city,GA,Georgia,32.5215666,-81.533163,Screven County
+362,"Omega city, Georgia",Omega,city,GA,Georgia,31.3410184,-83.5935011,Tift County
+363,"Orchard Hill town, Georgia",Orchard Hill,town,GA,Georgia,33.1865071,-84.2113095,Spalding County
+364,"Oxford city, Georgia",Oxford,city,GA,Georgia,33.6190031,-83.8674051,Newton County
+365,"Palmetto city, Georgia",Palmetto,city,GA,Georgia,33.5178907,-84.66965479999999,Fulton County
+366,"Parrott town, Georgia",Parrott,town,GA,Georgia,31.8934963,-84.51325,Terrell County
+367,"Patterson city, Georgia",Patterson,city,GA,Georgia,31.3874383,-82.1401193,Pierce County
+368,"Pavo city, Georgia",Pavo,city,GA,Georgia,30.959912,-83.73794579999999,Brooks County
+369,"Peachtree City city, Georgia",Peachtree City,city,GA,Georgia,33.3968557,-84.59634319999999,Fayette County
+370,"Peachtree Corners city, Georgia",Peachtree Corners,city,GA,Georgia,33.9698809,-84.22147059999999,Gwinnett County
+371,"Pearson city, Georgia",Pearson,city,GA,Georgia,31.297703,-82.8523668,Atkinson County
+372,"Pelham city, Georgia",Pelham,city,GA,Georgia,31.1276849,-84.1518466,Mitchell County
+373,"Pembroke city, Georgia",Pembroke,city,GA,Georgia,32.1360332,-81.6220565,Bryan County
+374,"Pendergrass town, Georgia",Pendergrass,town,GA,Georgia,34.16232919999999,-83.6779473,Jackson County
+375,"Perry city, Georgia",Perry,city,GA,Georgia,32.4582065,-83.7315723,Houston County
+376,"Pinehurst city, Georgia",Pinehurst,city,GA,Georgia,32.1959971,-83.76295329999999,Dooly County
+377,"Pine Lake city, Georgia",Pine Lake,city,GA,Georgia,33.7937162,-84.2060309,DeKalb County
+378,"Pine Mountain town, Georgia",Pine Mountain,town,GA,Georgia,32.8648522,-84.8540982,Harris County
+379,"Pineview town, Georgia",Pineview,town,GA,Georgia,32.1101702,-83.501003,Wilcox County
+380,"Pitts city, Georgia",Pitts,city,GA,Georgia,31.9446209,-83.5407214,Wilcox County
+381,"Plains city, Georgia",Plains,city,GA,Georgia,32.0340508,-84.3926912,Sumter County
+382,"Plainville city, Georgia",Plainville,city,GA,Georgia,34.4050895,-85.03716829999999,Gordon County
+383,"Pooler city, Georgia",Pooler,city,GA,Georgia,32.115481,-81.2470574,Chatham County
+384,"Portal town, Georgia",Portal,town,GA,Georgia,32.538222,-81.93233839999999,Bulloch County
+385,"Porterdale city, Georgia",Porterdale,city,GA,Georgia,33.5751146,-83.8937954,Newton County
+386,"Port Wentworth city, Georgia",Port Wentworth,city,GA,Georgia,32.149092,-81.163168,Chatham County
+387,"Poulan city, Georgia",Poulan,city,GA,Georgia,31.5129582,-83.78767479999999,Worth County
+388,"Powder Springs city, Georgia",Powder Springs,city,GA,Georgia,33.8595491,-84.683824,Cobb County
+389,"Pulaski town, Georgia",Pulaski,town,GA,Georgia,32.3901752,-81.9567837,Candler County
+390,"Quitman city, Georgia",Quitman,city,GA,Georgia,30.7849191,-83.5598811,Brooks County
+391,"Ranger town, Georgia",Ranger,town,GA,Georgia,34.5011995,-84.7096571,Gordon County
+392,"Ray City city, Georgia",Ray City,city,GA,Georgia,31.0746445,-83.1993186,Berrien County
+393,"Rayle town, Georgia",Rayle,town,GA,Georgia,33.7898457,-82.89986859999999,Wilkes County
+394,"Rebecca town, Georgia",Rebecca,town,GA,Georgia,31.8065688,-83.4868295,Turner County
+395,"Register town, Georgia",Register,town,GA,Georgia,32.3671237,-81.88400390000001,Bulloch County
+396,"Reidsville city, Georgia",Reidsville,city,GA,Georgia,32.0868611,-82.1178978,Tattnall County
+397,"Remerton city, Georgia",Remerton,city,GA,Georgia,30.8440899,-83.3104307,Lowndes County
+398,"Rentz city, Georgia",Rentz,city,GA,Georgia,32.383504,-82.99125649999999,Laurens County
+399,"Resaca town, Georgia",Resaca,town,GA,Georgia,34.5804222,-84.9435359,Gordon County
+400,"Rest Haven town, Georgia",Rest Haven,town,GA,Georgia,34.1331569,-83.97657219999999,Gwinnett County
+401,"Reynolds city, Georgia",Reynolds,city,GA,Georgia,32.5598685,-84.09630039999999,Taylor County
+402,"Rhine town, Georgia",Rhine,town,GA,Georgia,31.98962289999999,-83.2001537,Dodge County
+403,"Riceboro city, Georgia",Riceboro,city,GA,Georgia,31.7368764,-81.4339538,Liberty County
+404,"Richland city, Georgia",Richland,city,GA,Georgia,32.0879342,-84.66742029999999,Stewart County
+405,"Richmond Hill city, Georgia",Richmond Hil,city,GA,Georgia,31.9382652,-81.3034433,Bryan County
+406,"Riddleville town, Georgia",Riddleville,town,GA,Georgia,32.9068227,-82.66568939999999,Washington County
+407,"Rincon city, Georgia",Rincon,city,GA,Georgia,32.2947732,-81.2353612,Effingham County
+408,"Ringgold city, Georgia",Ringgold,city,GA,Georgia,34.9159099,-85.1091173,Catoosa County
+409,"Riverdale city, Georgia",Riverdale,city,GA,Georgia,33.5726113,-84.4132594,Clayton County
+410,"Roberta city, Georgia",Roberta,city,GA,Georgia,32.7218072,-84.0132433,Crawford County
+411,"Rochelle city, Georgia",Rochelle,city,GA,Georgia,31.9510105,-83.4562744,Wilcox County
+412,"Rockmart city, Georgia",Rockmart,city,GA,Georgia,34.0026005,-85.0416133,Polk County
+413,"Rocky Ford town, Georgia",Rocky Ford,town,GA,Georgia,32.6635006,-81.8295571,Screven County
+414,"Rome city, Georgia",Rome,city,GA,Georgia,34.257038,-85.1646726,Floyd County
+415,"Roopville town, Georgia",Roopville,town,GA,Georgia,33.4565021,-85.1307779,Carroll County
+416,"Rossville city, Georgia",Rossville,city,GA,Georgia,34.9831309,-85.2860676,Walker County
+417,"Roswell city, Georgia",Roswell,city,GA,Georgia,34.0232431,-84.3615555,Fulton County
+418,"Royston city, Georgia",Royston,city,GA,Georgia,34.2870503,-83.11014829999999,Franklin County
+419,"Rutledge city, Georgia",Rutledge,city,GA,Georgia,33.6259545,-83.6123935,Morgan County
+420,"St. Marys city, Georgia",St. Marys,city,GA,Georgia,30.7478954,-81.57061089999999,Camden County
+421,"Sale City city, Georgia",Sale City,city,GA,Georgia,31.2643494,-84.0212897,Mitchell County
+422,"Sandersville city, Georgia",Sandersville,city,GA,Georgia,32.9815431,-82.810138,Washington County
+423,"Sandy Springs city, Georgia",Sandy Springs,city,GA,Georgia,33.9304352,-84.3733147,Fulton County
+424,"Santa Claus city, Georgia",Santa Claus,city,GA,Georgia,32.1715776,-82.3315138,Toombs County
+425,"Sardis city, Georgia",Sardis,city,GA,Georgia,32.975157,-81.75761299999999,Burke County
+426,"Sasser town, Georgia",Sasser,town,GA,Georgia,31.7206503,-84.3463045,Terrell County
+427,"Savannah city, Georgia",Savannah,city,GA,Georgia,32.0808989,-81.091203,Chatham County
+428,"Scotland city, Georgia",Scotland,city,GA,Georgia,32.0487877,-82.8170863,Telfair County
+429,"Screven city, Georgia",Screven,city,GA,Georgia,31.48632539999999,-82.0170596,Wayne County
+430,"Senoia city, Georgia",Senoia,city,GA,Georgia,33.3023411,-84.5538165,Coweta County
+431,"Shady Dale town, Georgia",Shady Dale,town,GA,Georgia,33.4006823,-83.5901713,Jasper County
+432,"Sharon city, Georgia",Sharon,city,GA,Georgia,33.5598553,-82.7948629,Taliaferro County
+433,"Sharpsburg town, Georgia",Sharpsburg,town,GA,Georgia,33.3392842,-84.6485417,Coweta County
+434,"Shellman city, Georgia",Shellman,city,GA,Georgia,31.7562765,-84.6151965,Randolph County
+435,"Shiloh city, Georgia",Shiloh,city,GA,Georgia,32.8101325,-84.6960378,Harris County
+436,"Siloam town, Georgia",Siloam,town,GA,Georgia,33.5367968,-83.0809864,Greene County
+437,"Sky Valley city, Georgia",Sky  Valley,city,GA,Georgia,34.9875902,-83.33321029999999,Flats
+438,"Smithville city, Georgia",Smithville,city,GA,Georgia,31.9004451,-84.2518549,Lee County
+439,"Smyrna city, Georgia",Smyrna,city,GA,Georgia,33.8839926,-84.51437609999999,Cobb County
+440,"Snellville city, Georgia",Snellville,city,GA,Georgia,33.857328,-84.0199108,Gwinnett County
+441,"Social Circle city, Georgia",Social Circle,city,GA,Georgia,33.656228,-83.718231,Walton County
+442,"Soperton city, Georgia",Soperton,city,GA,Georgia,32.37711820000001,-82.5923554,Treutlen County
+443,"South Fulton city, Georgia",South Fulton,city,GA,Georgia,33.6576286,-84.6269824,Fulton County
+444,"Sparks town, Georgia",Sparks,town,GA,Georgia,31.1669785,-83.4373729,Cook County
+445,"Sparta city, Georgia",Sparta,city,GA,Georgia,33.2757006,-82.97625889999999,Hancock County
+446,"Springfield city, Georgia",Springfield,city,GA,Georgia,32.3642241,-81.30418,Effingham County
+447,"Stapleton city, Georgia",Stapleton,city,GA,Georgia,33.21570120000001,-82.4681823,Jefferson County
+448,"Statesboro city, Georgia",Statesboro,city,GA,Georgia,32.4487876,-81.7831674,Bulloch County
+449,"Statham city, Georgia",Statham,city,GA,Georgia,33.9651127,-83.596555,Barrow County
+450,"Stillmore city, Georgia",Stillmore,city,GA,Georgia,32.442115,-82.21512330000002,Emanuel County
+451,"Stockbridge city, Georgia",Stockbridge,city,GA,Georgia,33.5442781,-84.23380929999999,Henry County
+452,"Stonecrest city, Georgia",Stonecrest,city,GA,Georgia,33.7036082,-84.1308562,DeKalb County
+453,"Stone Mountain city, Georgia",Stone Mountain,city,GA,Georgia,33.8081608,-84.17019599999999,DeKalb County
+454,"Sugar Hill city, Georgia",Sugar,city,GA,Georgia,34.1064895,-84.0335197,Gwinnett County
+455,"Summertown city, Georgia",Summertown,city,GA,Georgia,32.7459918,-82.2762358,Emanuel County
+456,"Summerville city, Georgia",Summerville,city,GA,Georgia,34.480642,-85.3477343,Chattooga County
+457,"Sumner town, Georgia",Sumner,town,GA,Georgia,31.512959,-83.7385063,Worth County
+458,"Sunny Side city, Georgia",Sunny Side,city,GA,Georgia,33.3406695,-84.2907566,Spalding County
+459,"Surrency town, Georgia",Surrency,town,GA,Georgia,31.7238139,-82.19790119999999,Appling County
+460,"Suwanee city, Georgia",Suwanee,city,GA,Georgia,34.0514898,-84.0712997,Gwinnett County
+461,"Swainsboro city, Georgia",Swainsboro,city,GA,Georgia,32.5973856,-82.33373759999999,Emanuel County
+462,"Sycamore city, Georgia",Sycamore,city,GA,Georgia,31.6743474,-83.63739029999999,Turner County
+463,"Sylvania city, Georgia",Sylvania,city,GA,Georgia,32.7504441,-81.636776,Screven County
+464,"Sylvester city, Georgia",Sylvester,city,GA,Georgia,31.5307349,-83.8354542,Worth County
+465,"Talbotton city, Georgia",Talbotton,city,GA,Georgia,32.6776372,-84.5393664,Talbot County
+466,"Talking Rock town, Georgia",Talking Rock,town,GA,Georgia,34.5092562,-84.5049279,Pickens County
+467,"Tallapoosa city, Georgia",Tallapoosa,city,GA,Georgia,33.7445499,-85.2880077,Haralson County
+468,"Tallulah Falls town, Georgia",Tallulah Falls,town,GA,Georgia,34.736723,-83.39273639999999,Habersham County
+469,"Talmo town, Georgia",Talmo,town,GA,Georgia,34.185106,-83.7207267,Jackson County
+470,"Tarrytown town, Georgia",Tarrytown,town,GA,Georgia,32.3187886,-82.5592992,Montgomery County
+471,"Taylorsville town, Georgia",Taylorsville,town,GA,Georgia,34.0862094,-84.98744490000001,Bartow County
+472,"Temple city, Georgia",Temple,city,GA,Georgia,33.7370514,-85.032445,Carroll County
+473,"Tennille city, Georgia",Tennille,city,GA,Georgia,32.9359886,-82.8115273,Washington County
+474,"Thomaston city, Georgia",Thomaston,city,GA,Georgia,32.8881879,-84.3265854,Upson County
+475,"Thomasville city, Georgia",Thomasville,city,GA,Georgia,30.8365815,-83.9787808,Thomas County
+476,"Thomson city, Georgia",Thomson,city,GA,Georgia,33.4706927,-82.50457329999999,McDuffie County
+477,"Thunderbolt town, Georgia",Thunderbolt,town,GA,Georgia,32.0335445,-81.04983419999999,Chatham County
+478,"Tifton city, Georgia",Tifton,city,GA,Georgia,31.4504629,-83.5084973,Tift County
+479,"Tiger town, Georgia",Tiger,town,GA,Georgia,34.8470372,-83.4329398,Rabun County
+480,"Tignall town, Georgia",Tignall,town,GA,Georgia,33.8676229,-82.7412511,Wilkes County
+481,"Toccoa city, Georgia",Toccoa,city,GA,Georgia,34.5773206,-83.3323851,Stephens County
+482,"Toomsboro city, Georgia",Toomsboro,city,GA,Georgia,32.8268192,-83.07931599999999,Wilkinson County
+483,"Trenton city, Georgia",Trenton,city,GA,Georgia,34.8720222,-85.50913000000001,Dade County
+484,"Trion town, Georgia",Trion,town,GA,Georgia,34.5439735,-85.31051110000001,Chattooga County
+485,"Tucker city, Georgia",Tucker,city,GA,Georgia,33.8545479,-84.2171424,DeKalb County
+486,"Tunnel Hill city, Georgia",Tunnel Hill,city,GA,Georgia,34.8406339,-85.04272569999999,Whitfield County
+487,"Turin town, Georgia",Turin,town,GA,Georgia,33.3265068,-84.6357634,Coweta County
+488,"Twin City city, Georgia",Twin City,city,GA,Georgia,32.5829413,-82.15512190000001,Emanuel County
+489,"Tybee Island city, Georgia",Tybee Island,city,GA,Georgia,32.0002152,-80.845666,Chatham County
+490,"Tyrone town, Georgia",Tyrone,town,GA,Georgia,33.4712253,-84.5971524,Fayette County
+491,"Ty Ty city, Georgia",Ty Ty,city,GA,Georgia,31.4718497,-83.6468362,Tift County
+492,"Unadilla city, Georgia",Unadilla,city,GA,Georgia,32.2617127,-83.7365798,Dooly County
+493,"Union City city, Georgia",Union City,city,GA,Georgia,33.5870558,-84.5424299,Fulton County
+494,"Union Point city, Georgia",Union Point,city,GA,Georgia,33.6156831,-83.0745969,Greene County
+495,"Uvalda city, Georgia",Uvalda,city,GA,Georgia,32.0357429,-82.50818679999999,Montgomery County
+496,"Valdosta city, Georgia",Valdosta,city,GA,Georgia,30.8327022,-83.2784851,Lowndes County
+497,"Varnell city, Georgia",Varnell,city,GA,Georgia,34.9011886,-84.9738349,Whitfield County
+498,"Vernonburg town, Georgia",Vernonburg,town,GA,Georgia,31.9657681,-81.12011059999999,Chatham County
+499,"Vidalia city, Georgia",Vidalia,city,GA,Georgia,32.2176855,-82.4134614,Toombs County
+500,"Vidette city, Georgia",Vidette,city,GA,Georgia,33.0376503,-82.2473452,Burke County
+501,"Vienna city, Georgia",Vienna,city,GA,Georgia,32.0915577,-83.7954518,Dooly County
+502,"Villa Rica city, Georgia",Villa Rica,city,GA,Georgia,33.732052,-84.9191081,Carroll County
+503,"Waco city, Georgia",Waco,city,GA,Georgia,33.7028848,-85.1832821,Haralson County
+504,"Wadley city, Georgia",Wadley,city,GA,Georgia,32.8668223,-82.4040162,Jefferson County
+505,"Waleska city, Georgia",Waleska,city,GA,Georgia,34.3164826,-84.5521524,Cherokee County
+506,"Walnut Grove city, Georgia",Walnut Grove,city,GA,Georgia,33.742612,-83.85240399999999,Walton County
+507,"Walthourville city, Georgia",Walthourville,city,GA,Georgia,31.7736419,-81.63348529999999,Liberty County
+508,"Warm Springs city, Georgia",Warm Springs,city,GA,Georgia,32.8904081,-84.6810381,Meriwether County
+509,"Warner Robins city, Georgia",Warner Robins,city,GA,Georgia,32.6130007,-83.624201,Houston County
+510,"Warrenton city, Georgia",Warrenton,city,GA,Georgia,33.40708370000001,-82.6620781,Warren County
+511,"Warwick city, Georgia",Warwick,city,GA,Georgia,31.8310072,-83.9187886,Worth County
+512,"Washington city, Georgia",Washington,city,GA,Georgia,33.7367948,-82.7393089,Wilkes County
+513,"Watkinsville city, Georgia",Watkinsville,city,GA,Georgia,33.8628959,-83.4087708,Oconee County
+514,"Waverly Hall town, Georgia",Waverly Hall,town,GA,Georgia,32.683469,-84.7382609,Harris County
+515,"Waycross city, Georgia",Waycross,city,GA,Georgia,31.2135511,-82.3540178,Ware County
+516,"Waynesboro city, Georgia",Waynesboro,city,GA,Georgia,33.0898731,-82.0156736,Burke County
+517,"Webster County unified government, Georgia",Webster County,county,GA,Georgia,32.0129889,-84.56414699999999,Georgia
+518,"West Point city, Georgia",West Point,city,GA,Georgia,32.8779056,-85.18327459999999,Troup County
+519,"Whigham city, Georgia",Whigham,city,GA,Georgia,30.8829681,-84.3237944,Grady County
+520,"White city, Georgia",White,city,GA,Georgia,34.2828722,-84.7452138,Bartow County
+521,"White Plains city, Georgia",White Plains,city,GA,Georgia,33.4720779,-83.03542890000001,Greene County
+522,"Whitesburg city, Georgia",Whitesburg,city,GA,Georgia,33.4940017,-84.91382829999999,Carroll County
+523,"Willacoochee city, Georgia",Willacoochee,city,GA,Georgia,31.3407551,-83.0459826,Atkinson County
+524,"Williamson city, Georgia",Williamson,city,GA,Georgia,33.1823419,-84.3615902,Pike County
+525,"Winder city, Georgia",Winder,city,GA,Georgia,33.9926097,-83.7201709,Barrow County
+526,"Winterville city, Georgia",Winterville,city,GA,Georgia,33.9670589,-83.2782101,Clarke County
+527,"Woodbine city, Georgia",Woodbine,city,GA,Georgia,30.9638429,-81.7226063,Camden County
+528,"Woodbury city, Georgia",Woodbury,city,GA,Georgia,32.9837394,-84.58270309999999,Meriwether County
+529,"Woodland city, Georgia",Woodland,city,GA,Georgia,32.787356,-84.56186710000001,Talbot County
+530,"Woodstock city, Georgia",Woodstock,city,GA,Georgia,34.1014873,-84.5193754,Cherokee County
+531,"Woodville city, Georgia",Woodville,city,GA,Georgia,33.6715142,-83.1059865,Greene County
+532,"Woolsey town, Georgia",Woolsey,town,GA,Georgia,33.3623381,-84.4121473,Fayette County
+533,"Wrens city, Georgia",Wrens,city,GA,Georgia,33.2076456,-82.391792,Jefferson County
+534,"Wrightsville city, Georgia",Wrightsville,city,GA,Georgia,32.7293279,-82.719859,Johnson County
+535,"Yatesville town, Georgia",Yatesville,town,GA,Georgia,32.9137438,-84.1426922,Upson County
+536,"Young Harris city, Georgia",Young Harris,city,GA,Georgia,34.9331453,-83.8471223,Towns County
+537,"Zebulon city, Georgia",Zebulon,city,GA,Georgia,33.1023454,-84.3426997,Pike County

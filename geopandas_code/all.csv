@@ -1,0 +1,160 @@
+,OBJECTID,County,County_Full,totpop10,Reg_Comm,Acres,Sq_Miles,Label,State,totpop19,accident_count,allstate,statefarm,country,farm_bureau,nationwide,alfa,american_family,aflac,acceptance,cotton_states,all_companies
+0,1,Lanier,Lanier County,10078,Southern Georgia,127874.0,199.80299377,LANIER,GA,10423,4,0,0,0,1,0,0,0,0,0,0,2
+1,2,Bryan,Bryan County,30233,Coastal Regional Commission,291269.0,455.10800171,BRYAN,GA,39627,232,0,2,0,0,0,0,0,0,0,0,10
+2,3,Appling,Appling County,18236,Heart of Georgia Altamaha,328037.0,512.5579834,APPLING,GA,18386,15,0,1,1,1,0,0,0,0,0,0,12
+3,4,Rabun,Rabun County,16276,Georgia Mountains,241186.0,376.85400391,RABUN,GA,17137,12,1,0,0,1,0,0,0,0,0,0,8
+4,5,Bleckley,Bleckley County,13063,Heart of Georgia Altamaha,140237.0,219.1210022,BLECKLEY,GA,12873,50,0,1,0,0,0,0,0,0,0,0,4
+5,6,Fayette,Fayette County,106567,Atlanta Regional Commission,127543.0,199.28599548,FAYETTE,GA,114421,235,0,4,0,0,0,0,1,0,0,0,10
+6,7,Jefferson,Jefferson County,16930,Central Savannah River Area,339141.0,529.90802002,JEFFERSON,GA,15362,37,0,0,1,0,0,0,0,1,0,1,8
+7,8,Seminole,Seminole County,8729,Southwest Georgia,164181.0,256.53201294,SEMINOLE,GA,8090,9,0,2,0,1,0,0,0,0,0,0,5
+8,9,Camden,Camden County,50513,Coastal Regional Commission,501015.0,782.8369751,CAMDEN,GA,54666,141,0,1,1,1,0,0,0,0,0,0,13
+9,10,Glynn,Glynn County,79626,Coastal Regional Commission,375084.0,586.06799316,GLYNN,GA,85292,226,0,2,1,1,0,0,0,0,0,0,19
+10,11,Polk,Polk County,41475,Northwest Georgia,199774.0,312.14700317,POLK,GA,42613,84,0,2,0,0,0,1,0,0,0,0,9
+11,12,Morgan,Morgan County,17868,Northeast Georgia,226933.0,354.58300781,MORGAN,GA,19276,230,0,1,0,1,0,0,0,0,0,0,6
+12,13,Talbot,Talbot County,6865,River Valley,252604.0,394.69400024,TALBOT,GA,6195,23,0,0,0,1,0,0,0,0,0,0,1
+13,14,Schley,Schley County,5010,River Valley,107386.0,167.78999329,SCHLEY,GA,5257,2,0,0,0,1,0,0,0,0,0,0,1
+14,15,Union,Union County,21356,Georgia Mountains,210522.0,328.94000244,UNION,GA,24511,8,0,1,0,0,1,1,0,0,0,1,6
+15,16,Wilcox,Wilcox County,9255,Heart of Georgia Altamaha,244539.0,382.0920105,WILCOX,GA,8635,1,0,0,0,0,0,0,0,0,0,0,2
+16,17,Ware,Ware County,36312,Southern Georgia,581392.0,908.42498779,WARE,GA,35734,24,1,2,3,1,1,0,0,0,1,0,21
+17,18,Clarke,Clarke County,116714,Northeast Georgia,77457.203125,121.02700043,CLARKE,GA,128331,116,0,1,1,1,0,0,0,0,0,0,26
+18,19,Jones,Jones County,28669,Middle Georgia,253036.0,395.36801147,JONES,GA,28735,29,0,1,0,0,0,0,0,0,0,1,2
+19,20,Carroll,Carroll County,110527,Three Rivers,322447.0,503.82400513,CARROLL,GA,119992,561,3,4,1,0,1,0,0,1,1,0,20
+20,21,Rockdale,Rockdale County,85215,Atlanta Regional Commission,84525.703125,132.07099915,ROCKDALE,GA,90896,375,3,1,0,1,0,0,1,0,0,0,11
+21,22,Dade,Dade County,16633,Northwest Georgia,111481.0,174.18899536,DADE,GA,16116,146,0,1,0,0,0,0,0,0,0,0,1
+22,23,Murray,Murray County,39628,Northwest Georgia,221860.0,346.65701294,MURRAY,GA,40096,33,0,0,0,0,1,0,0,0,0,0,2
+23,24,Cobb,Cobb County,688078,Atlanta Regional Commission,220455.0,344.45999146,COBB,GA,760141,6708,3,1,0,0,0,0,1,1,1,0,31
+24,25,Columbia,Columbia County,124053,Central Savannah River Area,196979.0,307.7789917,COLUMBIA,GA,156714,579,3,3,1,1,0,0,1,0,0,0,18
+25,26,Forsyth,Forsyth County,175511,Georgia Mountains,158154.0,247.11599731,FORSYTH,GA,244252,288,0,2,0,0,0,0,0,1,0,0,6
+26,27,Baldwin,Baldwin County,45720,Middle Georgia,171139.0,267.40499878,BALDWIN,GA,44890,85,2,2,0,0,0,1,0,2,1,0,17
+27,28,Walker,Walker County,68756,Northwest Georgia,286115.0,447.0539856,WALKER,GA,69761,49,0,1,0,0,0,0,0,0,0,0,5
+28,29,Emanuel,Emanuel County,22598,Heart of Georgia Altamaha,441961.0,690.56500244,EMANUEL,GA,22646,56,0,1,0,0,0,0,0,0,0,0,7
+29,30,Gilmer,Gilmer County,28292,Northwest Georgia,275947.0,431.16699219,GILMER,GA,31369,92,0,2,0,1,0,0,0,0,0,0,7
+30,31,Warren,Warren County,5834,Central Savannah River Area,183530.0,286.76599121,WARREN,GA,5254,104,0,0,0,0,0,0,0,1,0,0,4
+31,32,Elbert,Elbert County,20166,Northeast Georgia,239539.0,374.2789917,ELBERT,GA,19194,44,0,1,0,1,0,0,0,0,0,0,8
+32,33,Clayton,Clayton County,259424,Atlanta Regional Commission,92354.1015625,144.30299377,CLAYTON,GA,292256,3419,0,3,0,0,0,0,1,0,1,0,9
+33,34,Brantley,Brantley County,18411,Southern Georgia,286458.0,447.59100342,BRANTLEY,GA,19109,22,0,0,1,1,0,0,0,0,0,0,2
+34,35,Chatham,Chatham County,265128,Coastal Regional Commission,405410.0,633.45300293,CHATHAM,GA,289430,2345,1,8,1,0,1,0,0,3,0,0,49
+35,36,Peach,Peach County,27695,Middle Georgia,96815.203125,151.27400208,PEACH,GA,27546,318,0,0,0,0,0,0,0,0,0,0,7
+36,37,Echols,Echols County,4034,Southern Georgia,269306.0,420.79000854,ECHOLS,GA,4006,3,0,0,0,0,0,0,0,0,0,0,0
+37,38,Evans,Evans County,11000,Heart of Georgia Altamaha,119709.0,187.04499817,EVANS,GA,10654,23,0,1,0,1,0,0,0,0,0,0,5
+38,39,Quitman,Quitman County,2513,River Valley,102757.0,160.55799866,QUITMAN,GA,2299,1,0,0,0,1,0,0,0,0,0,0,1
+39,40,Irwin,Irwin County,9538,Southern Georgia,232163.0,362.7539978,IRWIN,GA,9416,25,0,1,0,1,0,0,0,0,0,0,4
+40,41,Burke,Burke County,23316,Central Savannah River Area,534823.0,835.66101074,BURKE,GA,22383,41,0,0,1,1,0,0,0,0,0,0,9
+41,42,Henry,Henry County,203922,Atlanta Regional Commission,208948.0,326.48098755,HENRY,GA,234561,2267,1,1,0,0,0,0,1,0,2,2,12
+42,43,Liberty,Liberty County,63453,Coastal Regional Commission,386169.0,603.38897705,LIBERTY,GA,61435,162,1,2,0,1,0,0,0,0,0,0,9
+43,44,Madison,Madison County,28120,Northeast Georgia,182774.0,285.58499146,MADISON,GA,29880,6,0,1,0,1,0,0,0,0,0,0,2
+44,45,Toombs,Toombs County,27223,Heart of Georgia Altamaha,237563.0,371.19198608,TOOMBS,GA,26830,35,1,2,1,0,1,0,0,0,0,0,20
+45,46,Monroe,Monroe County,26424,Middle Georgia,254551.0,397.73599243,MONROE,GA,27578,584,0,0,0,0,0,0,0,0,0,0,2
+46,47,Clinch,Clinch County,6798,Southern Georgia,527504.0,824.22497559,CLINCH,GA,6618,2,0,0,0,1,1,0,0,0,0,0,6
+47,48,Oconee,Oconee County,32808,Northeast Georgia,119267.0,186.35499573,OCONEE,GA,40280,69,0,1,0,0,0,0,1,1,0,0,12
+48,49,Berrien,Berrien County,19286,Southern Georgia,293043.0,457.88000488,BERRIEN,GA,19397,12,0,0,0,0,0,0,0,0,0,0,5
+49,50,Charlton,Charlton County,12171,Southern Georgia,501087.0,782.94897461,CHARLTON,GA,13392,24,0,1,0,0,0,0,0,0,0,0,3
+50,51,Cook,Cook County,17212,Southern Georgia,149238.0,233.18400574,COOK,GA,17270,109,0,1,0,0,0,0,0,0,0,0,6
+51,52,Pierce,Pierce County,18758,Southern Georgia,219810.0,343.45300293,PIERCE,GA,19465,12,0,0,0,1,0,0,0,1,0,0,9
+52,53,Early,Early County,11008,Southwest Georgia,330435.0,516.30499268,EARLY,GA,10190,18,0,1,0,0,0,0,0,0,0,0,6
+53,54,Johnson,Johnson County,9980,Heart of Georgia Altamaha,196277.0,306.68200684,JOHNSON,GA,9643,6,0,1,0,1,0,0,0,0,0,0,3
+54,55,Taylor,Taylor County,8906,River Valley,242959.0,379.62298584,TAYLOR,GA,8020,20,1,1,0,0,0,0,0,0,0,0,2
+55,56,Dooly,Dooly County,14918,River Valley,254218.0,397.21600342,DOOLY,GA,13390,142,1,0,1,0,0,0,0,0,0,0,7
+56,57,Dawson,Dawson County,22330,Georgia Mountains,137194.0,214.36500549,DAWSON,GA,26108,100,0,0,1,0,0,0,0,1,0,0,2
+57,58,Lee,Lee County,28298,Southwest Georgia,231462.0,361.66000366,LEE,GA,29992,52,1,0,0,1,0,2,0,0,0,0,12
+58,59,Bartow,Bartow County,100157,Northwest Georgia,300840.0,470.06298828,BARTOW,GA,107738,642,3,2,0,0,0,1,0,2,1,0,11
+59,60,Wilkes,Wilkes County,10593,Central Savannah River Area,303489.0,474.20199585,WILKES,GA,9777,63,0,1,1,0,0,0,0,0,0,1,8
+60,61,Lamar,Lamar County,18317,Three Rivers,118910.0,185.79699707,LAMAR,GA,19077,69,1,1,0,0,0,0,0,1,0,0,7
+61,62,Haralson,Haralson County,28780,Northwest Georgia,181237.0,283.18301392,HARALSON,GA,29792,170,0,2,0,1,0,0,0,0,0,0,8
+62,63,Coffee,Coffee County,42356,Southern Georgia,385768.0,602.76202393,COFFEE,GA,43273,30,2,0,1,1,1,0,0,0,1,0,20
+63,64,Glascock,Glascock County,3082,Central Savannah River Area,92479.203125,144.49899292,GLASCOCK,GA,2971,1,0,0,0,2,0,0,0,0,0,0,2
+64,65,Richmond,Richmond County,200549,Central Savannah River Area,210453.0,328.83200073,RICHMOND,GA,202518,9157,6,0,0,1,3,0,0,1,0,0,22
+65,66,Twiggs,Twiggs County,9023,Middle Georgia,232066.0,362.60400391,TWIGGS,GA,8120,171,0,0,0,1,0,0,0,0,0,0,3
+66,67,White,White County,27144,Georgia Mountains,154987.0,242.16700745,WHITE,GA,30798,24,1,0,0,0,0,0,0,1,0,0,8
+67,68,Miller,Miller County,6125,Southwest Georgia,181521.0,283.62600708,MILLER,GA,5718,21,0,0,0,1,0,0,0,0,0,0,5
+68,69,Meriwether,Meriwether County,21992,Three Rivers,323414.0,505.33401489,MERIWETHER,GA,21167,90,0,1,0,0,0,0,0,1,0,0,6
+69,70,Newton,Newton County,99958,Northeast Georgia,178654.0,279.14700317,NEWTON,GA,111744,336,2,1,0,1,0,0,0,0,0,0,10
+70,71,Mitchell,Mitchell County,23498,Southwest Georgia,328781.0,513.7210083,MITCHELL,GA,21863,28,0,1,1,1,0,0,0,0,0,0,8
+71,72,Gwinnett,Gwinnett County,805321,Atlanta Regional Commission,279481.0,436.68899536,GWINNETT,GA,936250,4387,1,1,1,0,2,0,3,0,0,1,27
+72,73,Greene,Greene County,15994,Northeast Georgia,259978.0,406.21499634,GREENE,GA,18324,198,0,1,0,1,1,0,0,0,0,0,10
+73,74,Sumter,Sumter County,32819,River Valley,315235.0,492.55499268,SUMTER,GA,29524,32,1,3,0,1,0,0,0,0,0,0,13
+74,75,Randolph,Randolph County,7719,River Valley,275724.0,430.81900024,RANDOLPH,GA,6778,9,0,0,0,0,0,0,0,0,0,0,4
+75,76,Franklin,Franklin County,22084,Georgia Mountains,170525.0,266.4460144,FRANKLIN,GA,23349,215,0,1,0,1,0,0,0,0,0,0,5
+76,77,Pulaski,Pulaski County,12010,Middle Georgia,160756.0,251.18200684,PULASKI,GA,11137,10,1,2,0,1,0,0,0,0,0,0,7
+77,78,Brooks,Brooks County,16243,Southern Georgia,318553.0,497.73800659,BROOKS,GA,15457,50,0,1,0,0,0,0,0,0,0,0,2
+78,79,Chattooga,Chattooga County,26015,Northwest Georgia,200695.0,313.58599854,CHATTOOGA,GA,24789,63,0,1,0,0,0,0,0,0,0,0,5
+79,80,Bacon,Bacon County,11096,Southern Georgia,183009.0,285.95098877,BACON,GA,11164,20,0,1,0,0,0,0,0,0,0,1,6
+80,81,Turner,Turner County,8930,Southern Georgia,185562.0,289.94100952,TURNER,GA,7985,56,0,2,0,0,0,0,0,0,0,0,3
+81,82,Lowndes,Lowndes County,109233,Southern Georgia,326762.0,510.56600952,LOWNDES,GA,117406,261,1,2,1,1,0,1,0,6,0,0,33
+82,83,Atkinson,Atkinson County,8375,Southern Georgia,220539.0,344.5920105,ATKINSON,GA,8165,14,0,0,0,0,0,0,0,0,0,0,1
+83,84,Towns,Towns County,10471,Georgia Mountains,110050.0,171.95399475,TOWNS,GA,12037,2,0,1,0,0,0,0,0,0,0,0,6
+84,85,Screven,Screven County,14593,Coastal Regional Commission,420265.0,656.66400146,SCREVEN,GA,13966,13,0,1,0,1,0,0,0,0,0,0,6
+85,86,Troup,Troup County,67044,Three Rivers,285404.0,445.94299316,TROUP,GA,69922,472,3,4,1,0,0,1,0,1,1,0,26
+86,87,Laurens,Laurens County,48434,Heart of Georgia Altamaha,523893.0,818.58197021,LAURENS,GA,47546,150,0,6,1,1,0,1,0,0,1,0,26
+87,88,Fannin,Fannin County,23682,Northwest Georgia,250807.0,391.88598633,FANNIN,GA,26188,3,0,1,0,1,0,1,0,0,0,0,9
+88,89,Thomas,Thomas County,44720,Southwest Georgia,353353.0,552.11401367,THOMAS,GA,44451,26,0,2,1,1,0,0,0,0,1,0,22
+89,90,Fulton,Fulton County,920581,Atlanta Regional Commission,341906.0,534.22900391,FULTON,GA,1063937,32665,6,2,0,1,2,1,1,0,2,1,101
+90,91,Candler,Candler County,10998,Heart of Georgia Altamaha,159389.0,249.04499817,CANDLER,GA,10803,43,0,0,0,0,0,0,0,0,0,0,9
+91,92,Calhoun,Calhoun County,6694,Southwest Georgia,181462.0,283.53399658,CALHOUN,GA,6189,12,0,0,0,2,0,0,0,0,0,0,3
+92,93,Baker,Baker County,3451,Southwest Georgia,223407.0,349.07400513,BAKER,GA,3038,11,0,0,0,0,0,0,0,0,0,0,0
+93,94,Lincoln,Lincoln County,7996,Central Savannah River Area,164740.0,257.40600586,LINCOLN,GA,7921,15,0,1,0,0,0,0,0,0,0,0,1
+94,95,Crisp,Crisp County,23439,River Valley,179779.0,280.9039917,CRISP,GA,22372,54,0,1,3,0,1,0,0,0,0,0,15
+95,96,Houston,Houston County,139900,Middle Georgia,243113.0,379.86499023,HOUSTON,GA,157863,527,0,5,2,1,1,4,0,0,1,0,27
+96,97,Pickens,Pickens County,29431,Northwest Georgia,148909.0,232.66999817,PICKENS,GA,32591,63,1,0,1,0,0,1,0,0,0,0,10
+97,98,Webster,Webster County,2799,River Valley,134546.0,210.227005,WEBSTER,GA,2607,9,0,0,0,0,0,0,0,0,0,0,0
+98,99,Wayne,Wayne County,30099,Heart of Georgia Altamaha,415614.0,649.39697266,WAYNE,GA,29927,12,1,1,1,1,0,0,0,1,0,0,13
+99,100,Effingham,Effingham County,52250,Coastal Regional Commission,309552.0,483.67498779,EFFINGHAM,GA,64296,106,1,1,0,0,0,0,0,0,0,0,3
+100,101,Hall,Hall County,179684,Georgia Mountains,274700.0,429.21899414,HALL,GA,204441,578,0,2,0,1,0,1,0,3,0,1,15
+101,102,Telfair,Telfair County,16500,Heart of Georgia Altamaha,284203.0,444.06698608,TELFAIR,GA,15860,12,1,1,0,1,0,0,0,0,0,0,6
+102,103,Oglethorpe,Oglethorpe County,14899,Northeast Georgia,282918.0,442.05899048,OGLETHORPE,GA,15259,20,0,0,0,0,0,0,0,0,0,0,0
+103,104,Washington,Washington County,21187,Central Savannah River Area,438077.0,684.49597168,WASHINGTON,GA,20374,10,0,1,1,1,1,0,0,0,0,0,13
+104,105,Bibb,Bibb County,155547,Middle Georgia,163409.0,255.32600403,BIBB,GA,153159,640,0,3,0,1,0,2,0,4,0,0,30
+105,106,Spalding,Spalding County,64073,Three Rivers,127712.0,199.55099487,SPALDING,GA,66703,313,1,2,0,0,0,0,0,1,1,1,13
+106,107,Dodge,Dodge County,21796,Heart of Georgia Altamaha,321998.0,503.12200928,DODGE,GA,20605,29,0,1,0,1,0,0,0,0,0,0,8
+107,108,Taliaferro,Taliaferro County,1717,Central Savannah River Area,125041.0,195.3769989,TALIAFERRO,GA,1537,42,0,0,0,0,0,0,0,0,0,0,0
+108,109,Decatur,Decatur County,27842,Southwest Georgia,398763.0,623.0670166,DECATUR,GA,26404,28,0,2,1,1,0,0,0,0,0,0,16
+109,110,Lumpkin,Lumpkin County,29966,Georgia Mountains,181850.0,284.14099121,LUMPKIN,GA,33610,15,1,2,0,1,0,0,0,1,0,0,8
+110,111,Catoosa,Catoosa County,63942,Northwest Georgia,103974.0,162.45899963,CATOOSA,GA,67580,250,0,0,0,0,0,0,0,0,0,0,0
+111,112,Bulloch,Bulloch County,70217,Coastal Regional Commission,441197.0,689.37097168,BULLOCH,GA,79608,157,2,4,0,1,0,0,0,0,1,0,28
+112,113,Jenkins,Jenkins County,8340,Central Savannah River Area,225774.0,352.77200317,JENKINS,GA,8676,13,0,1,1,1,0,0,0,0,0,0,4
+113,114,Hancock,Hancock County,9429,Central Savannah River Area,306383.0,478.72299194,HANCOCK,GA,8457,7,0,0,0,1,0,0,0,0,0,0,1
+114,115,Upson,Upson County,27153,Three Rivers,209593.0,327.48901367,UPSON,GA,26320,41,1,3,0,0,0,0,0,0,0,0,8
+115,116,Dougherty,Dougherty County,94565,Southwest Georgia,214122.0,334.56600952,DOUGHERTY,GA,87956,124,4,3,0,0,0,1,0,2,0,0,32
+116,117,Muscogee,Muscogee County,189885,River Valley,141431.0,220.98599243,MUSCOGEE,GA,195769,349,1,4,0,0,1,0,0,5,1,0,33
+117,118,Clay,Clay County,3183,River Valley,139024.0,217.2250061,CLAY,GA,2834,5,0,0,0,0,0,0,0,0,0,0,0
+118,119,Marion,Marion County,8742,River Valley,235146.0,367.41598511,MARION,GA,8359,4,0,0,0,1,0,0,0,0,0,0,3
+119,120,Douglas,Douglas County,132403,Atlanta Regional Commission,128641.0,201.00100708,DOUGLAS,GA,146343,1039,0,1,0,1,0,0,0,0,0,0,7
+120,121,Coweta,Coweta County,127317,Three Rivers,285287.0,445.76098633,COWETA,GA,148509,835,1,4,0,0,0,0,0,2,1,0,19
+121,122,Stewart,Stewart County,6058,River Valley,296681.0,463.56500244,STEWART,GA,6621,39,0,0,0,0,0,0,0,0,0,0,2
+122,123,Heard,Heard County,11834,Three Rivers,192700.0,301.09298706,HEARD,GA,11923,73,0,1,0,0,0,0,0,0,0,0,1
+123,124,Wilkinson,Wilkinson County,9563,Middle Georgia,289252.0,451.95599365,WILKINSON,GA,8954,15,0,1,0,0,0,0,0,0,0,0,2
+124,125,Wheeler,Wheeler County,7421,Heart of Georgia Altamaha,192221.0,300.34500122,WHEELER,GA,7855,14,0,0,0,1,0,0,0,0,0,0,2
+125,126,McIntosh,McIntosh County,14333,Coastal Regional Commission,367856.0,574.77502441,MCINTOSH,GA,14378,108,0,0,0,0,0,0,0,0,0,0,1
+126,127,Worth,Worth County,21679,Southwest Georgia,367777.0,574.65197754,WORTH,GA,20247,54,0,0,0,0,0,0,0,0,0,0,4
+127,128,Butts,Butts County,23655,Three Rivers,120323.0,188.00500488,BUTTS,GA,24936,419,1,0,0,0,0,0,0,0,0,0,3
+128,129,Jasper,Jasper County,13900,Northeast Georgia,238981.0,373.40701294,JASPER,GA,14219,19,0,1,0,1,0,0,0,0,0,0,2
+129,130,Macon,Macon County,14740,River Valley,259783.0,405.91101074,MACON,GA,12947,756,0,0,0,1,0,0,0,0,0,0,3
+130,131,Harris,Harris County,32024,River Valley,302667.0,472.91799927,HARRIS,GA,35236,126,1,1,0,1,0,0,0,2,0,0,7
+131,132,Tift,Tift County,40118,Southern Georgia,172006.0,268.75900269,TIFT,GA,40644,144,2,3,1,2,2,1,0,0,0,1,22
+132,133,Jeff Davis,Jeff Davis County,15068,Heart of Georgia Altamaha,214723.0,335.5039978,JEFF DAVIS,GA,15115,11,1,1,0,1,0,0,0,0,0,1,8
+133,134,Stephens,Stephens County,26175,Georgia Mountains,117881.0,184.19000244,STEPHENS,GA,25925,43,1,0,0,1,2,0,0,0,0,0,15
+134,135,Colquitt,Colquitt County,45498,Southwest Georgia,356190.0,556.54797363,COLQUITT,GA,45600,29,0,1,1,1,0,0,0,0,0,0,15
+135,136,Treutlen,Treutlen County,6885,Heart of Georgia Altamaha,129614.0,202.52200317,TREUTLEN,GA,6901,112,0,1,0,1,0,0,0,0,0,0,2
+136,137,McDuffie,McDuffie County,21875,Central Savannah River Area,170557.0,266.49499512,MCDUFFIE,GA,21312,127,3,1,1,1,0,0,0,1,0,1,16
+137,138,DeKalb,DeKalb County,691893,Atlanta Regional Commission,173496.0,271.08700562,DEKALB,GA,759297,13180,0,1,0,0,1,0,0,0,0,0,9
+138,139,Floyd,Floyd County,96317,Northwest Georgia,331827.0,518.47998047,FLOYD,GA,98498,98,2,4,1,0,1,2,1,1,0,0,20
+139,140,Putnam,Putnam County,21218,Middle Georgia,230824.0,360.6619873,PUTNAM,GA,22119,30,0,1,1,0,0,0,0,1,0,0,6
+140,141,Terrell,Terrell County,9315,Southwest Georgia,216090.0,337.64001465,TERRELL,GA,8531,19,1,1,0,1,0,0,0,0,0,0,6
+141,142,Tattnall,Tattnall County,25520,Heart of Georgia Altamaha,312786.0,488.72799683,TATTNALL,GA,25286,19,1,0,0,1,0,0,0,0,0,0,6
+142,143,Crawford,Crawford County,12630,Middle Georgia,208890.0,326.39001465,CRAWFORD,GA,12404,36,0,0,0,0,0,0,0,0,0,0,0
+143,144,Long,Long County,14464,Coastal Regional Commission,258724.0,404.25601196,LONG,GA,19559,10,0,0,0,0,0,0,0,0,0,0,0
+144,145,Hart,Hart County,25213,Georgia Mountains,164463.0,256.97299194,HART,GA,26205,56,1,0,1,1,0,0,0,0,0,0,8
+145,146,Cherokee,Cherokee County,214346,Atlanta Regional Commission,277969.0,434.32598877,CHEROKEE,GA,258773,921,1,2,0,0,1,0,0,0,0,0,10
+146,147,Chattahoochee,Chattahoochee County,11267,River Valley,160727.0,251.13600159,CHATTAHOOCHEE,GA,10907,27,0,0,0,0,0,0,0,0,0,0,1
+147,148,Montgomery,Montgomery County,9123,Heart of Georgia Altamaha,156663.0,244.78599548,MONTGOMERY,GA,9172,13,0,0,0,1,0,0,0,0,0,0,3
+148,149,Walton,Walton County,83768,Northeast Georgia,211166.0,329.9460144,WALTON,GA,94593,312,0,1,0,0,0,0,0,0,0,0,7
+149,150,Pike,Pike County,17869,Three Rivers,140392.0,219.36300659,PIKE,GA,18962,57,0,1,0,1,0,0,0,0,0,0,3
+150,151,Ben Hill,Ben Hill County,17634,Southern Georgia,162500.0,253.90600586,BEN HILL,GA,16700,18,0,1,1,0,2,0,0,0,0,0,10
+151,152,Barrow,Barrow County,69367,Northeast Georgia,104266.0,162.91499329,BARROW,GA,83240,215,0,0,0,0,0,0,0,0,0,0,3
+152,153,Banks,Banks County,18395,Georgia Mountains,149671.0,233.86099243,BANKS,GA,19234,180,0,0,0,0,0,0,0,0,0,0,2
+153,154,Paulding,Paulding County,142324,Northwest Georgia,201159.0,314.31100464,PAULDING,GA,168667,84,0,0,0,0,0,0,0,0,0,0,1
+154,155,Grady,Grady County,25011,Southwest Georgia,294510.0,460.17098999,GRADY,GA,24633,17,1,1,1,0,1,0,0,1,0,0,9
+155,156,Gordon,Gordon County,55186,Northwest Georgia,229125.0,358.00799561,GORDON,GA,57963,234,0,1,0,1,0,0,0,0,0,1,7
+156,157,Jackson,Jackson County,60485,Northeast Georgia,219556.0,343.05599976,JACKSON,GA,72977,609,0,3,0,0,0,0,0,1,0,0,9
+157,158,Whitfield,Whitfield County,102599,Northwest Georgia,186262.0,291.03399658,WHITFIELD,GA,104628,280,0,3,0,0,1,0,0,4,0,0,14
+158,159,Habersham,Habersham County,43041,Georgia Mountains,178555.0,278.99200439,HABERSHAM,GA,45328,144,1,1,1,0,1,0,0,0,0,0,10
